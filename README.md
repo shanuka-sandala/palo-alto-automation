@@ -1,4 +1,4 @@
-# palo-alto-automation
+# Palo-alto-Automation
 This repository contains the automation tools which I was made for ease my tasks. Hope this will ease yours also.
 
 Here are the tools that I have created;
